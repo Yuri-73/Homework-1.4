@@ -12,7 +12,6 @@ public class Main {
         str = new String(chars); //Превращение массива символов chars в строку str
         System.out.println("str = " +str); //Вывод строки str
 
-
         System.out.println();
         System.out.println("Склеивание 2-х строк:");
         String street = "Манежная";
