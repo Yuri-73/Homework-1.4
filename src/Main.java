@@ -6,7 +6,7 @@ public class Main {
 
 
 
-        System.out.println("Сортировка символов строки через массив символов:");
+        System.out.print("Сортировка символов строки через массив символов:");
         String str = "CADB";
         System.out.println("str = " +str);
         char[] chars = str.toCharArray(); //Строку превращаем в массив символов
