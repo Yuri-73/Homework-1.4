@@ -2,6 +2,7 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
+
         System.out.println("Сортировка символов строки через массив символов:");
         String str = "CADB";
         System.out.println("str = " +str);
@@ -11,9 +12,6 @@ public class Main {
         System.out.println(chars); //Вывод массива символов
         str = new String(chars); //Превращение массива символов chars в строку str
         System.out.println("str = " +str); //Вывод строки str
-
-
-
         System.out.println();
         System.out.println("Склеивание 2-х строк:");
         String street = "Манежная";
